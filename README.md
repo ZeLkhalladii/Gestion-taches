@@ -10,11 +10,11 @@ Firstable open xampp run server then go to phpmyadmin.
    
    > name file "app-web-gestion-taches"
    
-![inup](https://user-images.githubusercontent.com/57255047/83789412-985cb200-a68e-11ea-82b8-124719dd24f9.PNG)
+![ampps](https://user-images.githubusercontent.com/57255047/83790611-5e8cab00-a690-11ea-9ef0-02ab36923d07.PNG)
 
    > browser: localhost/app-web-gestion-taches/index.php    &&   click log in or log up 
    
-   ![list](https://user-images.githubusercontent.com/47373251/82900519-98ed9e00-9f54-11ea-9e2a-45495f1c0d3d.png)
+![inup](https://user-images.githubusercontent.com/57255047/83789412-985cb200-a68e-11ea-82b8-124719dd24f9.PNG)
    
    > part log up and log in
    
