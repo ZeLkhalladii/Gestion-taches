@@ -8,11 +8,11 @@ Firstable open xampp run server then go to phpmyadmin.
 # Step 2: run application
    > copy file to "C:\Program Files\Ampps\www"
    
-   > name file "taskManagement"
+   > name file "app-web-gestion-taches"
    
-   ![Annotation 2020-05-26 123046](https://user-images.githubusercontent.com/47373251/82900946-2630f280-9f55-11ea-98fd-28e2c6b27a82.png)
+![inup](https://user-images.githubusercontent.com/57255047/83789412-985cb200-a68e-11ea-82b8-124719dd24f9.PNG)
 
-   > browser: localhost/taskManagement/index.php    &&   click log in or log up 
+   > browser: localhost/app-web-gestion-taches/index.php    &&   click log in or log up 
    
    ![list](https://user-images.githubusercontent.com/47373251/82900519-98ed9e00-9f54-11ea-9e2a-45495f1c0d3d.png)
    
