@@ -27,6 +27,8 @@ Firstable open xampp run server then go to phpmyadmin.
  ![newBoard](https://user-images.githubusercontent.com/57255047/83967346-6af34c80-a8b8-11ea-951f-cc56aa81a306.PNG)
       
    > page todo list & task (create edit delete) log out
+   
+   ![taske](https://user-images.githubusercontent.com/57255047/83967488-d8ec4380-a8b9-11ea-95cc-a0279eb5fea2.PNG)
       
    ![list6](https://user-images.githubusercontent.com/47373251/82900546-a571f680-9f54-11ea-95c7-c827f5efacaa.png)
    
