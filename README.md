@@ -18,27 +18,23 @@ Firstable open xampp run server then go to phpmyadmin.
    
    > part log up and log in
    
-   ![list1](https://user-images.githubusercontent.com/47373251/82900525-9be88e80-9f54-11ea-8911-8f065e90086f.png)
+ ![singup](https://user-images.githubusercontent.com/57255047/83967292-ff10e400-a8b7-11ea-9bc1-01b663f88bf3.PNG)
 
-   ![list2](https://user-images.githubusercontent.com/47373251/82900528-9c812500-9f54-11ea-8d87-a3fc99b8d73c.png)
+ ![singin](https://user-images.githubusercontent.com/57255047/83967324-3f706200-a8b8-11ea-91ab-fcdc4a91bce5.PNG)
    
    > page board (add edit delete) & loug out 
    
-   ![list3](https://user-images.githubusercontent.com/47373251/82900531-9db25200-9f54-11ea-87f0-6a71acce0df2.png)
-   
-   ![list4](https://user-images.githubusercontent.com/47373251/82900541-a0ad4280-9f54-11ea-9306-f5dd606e0794.png)
-   
+ ![newBoard](https://user-images.githubusercontent.com/57255047/83967346-6af34c80-a8b8-11ea-951f-cc56aa81a306.PNG)
+      
    > page todo list & task (create edit delete) log out
-   
-   ![list5](https://user-images.githubusercontent.com/47373251/82900543-a3a83300-9f54-11ea-8626-2ddde4783b54.png)
-   
+      
    ![list6](https://user-images.githubusercontent.com/47373251/82900546-a571f680-9f54-11ea-95c7-c827f5efacaa.png)
    
    ![list7](https://user-images.githubusercontent.com/47373251/82900515-968b4400-9f54-11ea-976e-4038c7baaddd.png)
    
    > your profil 
    
-   ![list8](https://user-images.githubusercontent.com/47373251/82901884-83797380-9f56-11ea-9bee-f89596cd6247.png)   
+  ![myprofile](https://user-images.githubusercontent.com/57255047/83967401-d9d0a580-a8b8-11ea-9355-3968c3dea184.PNG)
    
 # Gestion-taches
 # Gestion-taches
